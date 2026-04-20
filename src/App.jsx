@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       
-      <WordGame startword='학교'/>
+      <WordGame startWord='학교'/>
     </div>
   )
 }
